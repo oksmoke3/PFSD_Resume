@@ -1,0 +1,37 @@
+
+.center_align
+{
+	text-align: center;
+}
+.left_align
+{
+	text-align: left;
+}
+.bar {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.python {
+	width: 60%; background-color: #0000FF;
+}
+
+.java {
+	width: 66%; background-color: #0000FF;
+}
+
+.html {
+	width: 20%; background-color: #0000FF;
+}
+
+.css {
+	width: 20%; background-color: #0000FF;
+}
+.photoshop {
+	width: 90%; background-color: #0000FF;
+}
+
+.skills {
+  text-align: center;
+  color: #ffffff;
+}
