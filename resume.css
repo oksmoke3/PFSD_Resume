@@ -6,6 +6,7 @@
 .left_align
 {
 	text-align: left;
+
 }
 .bar {
   width: 100%;
@@ -13,11 +14,11 @@
 }
 
 .python {
-	width: 60%; background-color: #0000FF;
+	width: 40%; background-color: #0000FF;
 }
 
 .java {
-	width: 66%; background-color: #0000FF;
+	width: 60%; background-color: #0000FF;
 }
 
 .html {
