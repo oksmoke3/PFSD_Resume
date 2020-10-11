@@ -1,19 +1,4 @@
 
-.center_align
-{
-	text-align: center;
-}
-.left_align
-{
-	text-align: left;
-
-}
-
-.progress{
-		margin-left: 10rem;
-		margin-right: 10rem;
-}
-
 section{
 	padding:6rem 0;
 }
@@ -112,6 +97,24 @@ section.social ul{
 	margin-left: 10rem;
 	margin-right: 10rem;
 	margin-bottom: 1rem;
+	font-size: 1.8rem ;
+	margin-bottom: 0rem;
+}
+section.contact h3{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-bottom: 1rem;
+	font-size: 4rem;
+	font-weight: 200;
+	text-align: center;
+}
+section.contact{
+background-color: #fefbd8
+}
+section.contact p{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-left: 10rem;
 	font-size: 1.8rem ;
 	margin-bottom: 0rem;
 }
