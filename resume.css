@@ -1,0 +1,117 @@
+
+.center_align
+{
+	text-align: center;
+}
+.left_align
+{
+	text-align: left;
+
+}
+
+.progress{
+		margin-left: 10rem;
+		margin-right: 10rem;
+}
+
+section{
+	padding:6rem 0;
+}
+section.intro h1{
+	margin-top: 7rem;
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-bottom: 1rem;
+	font-size: 8rem;
+	font-weight: 400;
+}
+section.intro h3{
+		margin-left: 10rem;
+	margin-bottom: 1rem;
+	font-size: 4rem;
+	font-weight: 200;
+}
+section.about{
+background-color: #fefbd8
+}
+section.about h3{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-left: 10rem;
+	margin-bottom: 4rem;
+	font-size: 4rem;
+	font-weight: 200;
+	text-align: center;
+
+}
+section.about p{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-left: 10rem;
+	font-size: 2.5rem ;
+	margin-bottom: 2rem;
+
+}
+section.education h3{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-bottom: 1rem;
+	font-size: 4rem;
+	font-weight: 200;
+	text-align: center;
+}
+section.education p{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-left: 10rem;
+	font-size: 1.8rem ;
+	margin-bottom: 0rem;
+}
+section.education li{
+	margin-top:5rem
+	margin-left: 10rem;
+	font-size: 1.8rem ;
+	margin-bottom: 0rem;
+}
+section.skills{
+	background-color: #fefbd8;
+}
+section.skills h3{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-bottom: 1rem;
+	font-size: 4rem;
+	font-weight: 200;
+	text-align: center;
+
+}
+section.skills dt{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-bottom: 1rem;
+	font-size: 2rem;
+	font-weight:50;
+	text-align: left;
+
+}
+section.skills p{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	font-size: 1.8rem ;
+	margin-bottom: 0rem;
+}
+section.social h3{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-bottom: 1rem;
+	font-size: 4rem;
+	font-weight: 200;
+	text-align: center;
+}
+section.social ul{
+	margin-left: 10rem;
+	margin-right: 10rem;
+	margin-bottom: 1rem;
+	font-size: 1.8rem ;
+	margin-bottom: 0rem;
+}
